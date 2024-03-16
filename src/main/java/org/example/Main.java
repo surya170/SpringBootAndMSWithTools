@@ -6,6 +6,12 @@ public class Main {
     public static void method-1(){
       System.out.println("Hello World");
     }
+
+    public static void method-2() {
+        System.out.println("Hello Wprld2!!!")
+    }
+
+
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
         if(Constant.data < 15) {
